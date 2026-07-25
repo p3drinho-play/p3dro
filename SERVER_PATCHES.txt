@@ -1,0 +1,13 @@
+SERVER PATCHES
+
+This folder contains the server-side modifications extracted from the supplied Multitroid Server data.win.
+
+Included modified code entries:
+
+- gml_Object_oCustomSeed_Other_63.gml
+- gml_Object_oGenerateSeed_Other_10.gml
+- gml_Object_oServer_Create_0.gml
+- gml_Object_oServer_Other_68.gml
+- gml_Object_oServer_Step_0.gml
+
+The original server data.win was read only. It was not changed or copied into this source archive.
