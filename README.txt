@@ -1,4 +1,4 @@
-SEEDTROID SOURCE PATCHES v8v
+SEEDTROID SOURCE PATCHES v1.0
 
 This archive contains only the code entries changed by Seedtroid.
 It does not include AM2R, Multitroid, executables, data.win, music, sprites, or other game assets.
