@@ -1,5 +1,4 @@
-﻿SEEDTROID SOURCE PATCHES v8v
-
+﻿SEEDTROID SOURCE PATCHES v1.0
 Client changed code entries: 71
 
 gml_Object_oBeam_Create_0.gml
